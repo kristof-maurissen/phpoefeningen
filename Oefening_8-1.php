@@ -25,4 +25,4 @@ class Thermometer {
 			print($therm->getTemperatuur() . "<br>");
 			$therm->verlaag(5);
 			print($therm->getTemperatuur() . "<br>");
-			?>
+			
